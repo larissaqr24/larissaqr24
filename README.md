@@ -1,7 +1,6 @@
 # Olá!!! Eu sou a Larissa 👩
 
-💻 Atualmente trabalho como Analista de Sistemas.
-Estudo Python, voltado para Analise de Dados, Pandas, Power BI.
+💻 Atualmente trabalho como Analista de Sistema e sou estudante de tecnologia voltada para área de Dados.
 
 <h2>Habilidades</h2>
 
