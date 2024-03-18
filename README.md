@@ -1,6 +1,6 @@
 # Olá!!! Eu sou a Larissa 👩
 
-💻 Atualmente trabalho como Analista de Sistema e sou estudante de tecnologia voltadO para área de Dados.
+💻 Atualmente trabalho como Analista de Sistema e sou estudante de tecnologia voltado para área de Dados.
 
 <h2>Habilidades</h2>
 
